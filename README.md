@@ -18,6 +18,6 @@ en el texto [se agregan links](https://docs.docker.com/install/linux/docker-ce/u
 2. Dos..
 3. Tres..
 
--Linea
+- Linea
 
 Listo!
