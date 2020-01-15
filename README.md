@@ -8,7 +8,7 @@ Mensaje de prueba nomas para wachar como se ve
 
 Texto plano
 
-$$\int_0^\infty x dx$$
+$\int_0^\infty x dx$
 
 en el texto [se agregan links](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
 
